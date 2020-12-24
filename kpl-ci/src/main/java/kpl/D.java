@@ -1,7 +1,7 @@
 package kpl;
 
-public class A extends C{
-	public A() {
+public class D {
+	public D() {
 		
 	}
 	public String toString() {
