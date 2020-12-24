@@ -1,6 +1,6 @@
 package kpl;
 
-public class D {
+public class D extends MainApp{
 	public D() {
 		
 	}
